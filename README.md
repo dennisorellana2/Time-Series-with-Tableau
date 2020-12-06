@@ -8,6 +8,7 @@ An Academic Assignment on Time Series in 2019.
 
 Dataset Resouces: https://fbref.com/en/
 
+Screen Recorder and Video Editor: https://www.techsmith.com/video-editor.html
 
 ## My First YouTube Video
 

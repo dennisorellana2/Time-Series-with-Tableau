@@ -6,7 +6,7 @@ An Academic Assignment on Time Series in 2019.
 
 <img align="left" alt="Tableau" width="26px" src="https://tableau.github.io/webdataconnector/assets/logo.png" /> Tableau Version: 2019.1
 
-Dataset resouces: https://fbref.com/en/
+Dataset Resouces: https://fbref.com/en/
 
 
 ## My First YouTube Video

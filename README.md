@@ -13,7 +13,7 @@ Screen Recorder and Video Editor: https://www.techsmith.com/video-editor.html
 
 # Time Series & Beautiful Game
 
-We, as soccer fans most agreed that the English Primer League is the most excited club leagues in Europe. Those who are not aware of the English Primer League is the top football (soccer) League in England. Within the next three years, I want to see which of my three favorite English Primer League teams scored the most goals at home games. For this reason, I’m planning on visiting a home game in England to maximize possible of seeing many goals. Soccer is excited when there are goals scored especially at a home game. To sum up, we will analyze the past trends between the three teams and accurately predict the future.  Overall, football (soccer) created in England. 
+We, as soccer fans most agreed that the English Primer League is the most excited club leagues in Europe. Those who are not aware of the English Primer League is the top football (soccer) League in England. Within the next three years, I want to see which of my three favorite English Primer League teams scored the most goals at home games. For this reason, I’m planning on visiting a home game in England to maximize possible of seeing many goals. Soccer is excited when there are goals scored especially at a home game. To sum up, we will analyze the past trends between the three teams and accurately predict the future.  Overall, football (soccer) was created in England. 
 
 Please see my “Assignment 9.1 - Tableau Time Series Presentation” video below:
 

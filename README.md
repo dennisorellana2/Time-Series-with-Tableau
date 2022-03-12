@@ -19,4 +19,4 @@ Please see my “Assignment 9.1 - Tableau Time Series Presentation” video belo
 
 [![](http://img.youtube.com/vi/LwgemfNOybk/0.jpg)](http://www.youtube.com/watch?v=LwgemfNOybk "Tableau Time Series Presentation")
 
-Overall, Chelsea, Liverpool, and Manchester City are the currently top three soccer in England. The average home goal for all three teams is 1.815 goals per home game. However, the average away goal for all three teams is 1.417. Overall, the team scores more goals at their home stadium.
+Chelsea, Liverpool, and Manchester City are the currently top three soccer in England. The average home goal for all three teams is 1.815 goals per home game. However, the average away goal for all three teams is 1.417. Overall, the team scores more goals at their home stadium.
